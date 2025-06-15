@@ -1,3 +1,4 @@
+🏷️[Abrir Proyecto](https://github.com/JorgeRivero1/Deep_Learning_Deteccion_de_transacciones_bancarias_fraudulentas/blob/main/Redes_Neuronales-Detecci%C3%B3n_de_transacciones_bancarias_fraudulentas.ipynb)
 # 🧠 Detección de Transacciones Bancarias Fraudulentas con Redes Neuronales
 
 Este proyecto tiene como objetivo detectar transacciones bancarias fraudulentas utilizando redes neuronales implementadas en Python con TensorFlow y Keras. Se parte de un dataset real, preprocesado adecuadamente para entrenar y evaluar un modelo de clasificación binaria.
